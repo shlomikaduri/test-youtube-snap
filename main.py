@@ -1,7 +1,6 @@
 print("hello word")
 print("hi")
-<<<<<<< HEAD
 print("this is code feature")
-=======
-print('hi i am the master of git')
->>>>>>> master
+print('h i i am the master of git')
+print("check the smartgit app")
+
